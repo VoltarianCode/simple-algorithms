@@ -6,10 +6,18 @@ A short algorithms review using Java, with number of steps, time complexity and 
 ## Algorithms
 
 Quicksort
+
 Mergesort
+
 Heapsort
+
 Bubble sort
+
 Insertion sort
+
 Selection sort
+
 Radix sort
+
 Timsort
+
